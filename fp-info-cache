@@ -1,4 +1,4 @@
-20523757244223209
+20517096323976640
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53143,34 +53143,6 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
-GBC
-2 track short
-
-
-0
-2
-2
-GBC
-22_SMD_PADs
-
-
-0
-22
-22
-GBC
-Bottom_Pins
-
-
-0
-22
-22
-GBC
-Top_Pins
-
-
-0
-24
-24
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
