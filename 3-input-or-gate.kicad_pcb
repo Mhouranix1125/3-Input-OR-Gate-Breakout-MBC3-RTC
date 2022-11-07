@@ -263,7 +263,7 @@
       (tstamp 4dda5206-35c3-4eaf-a313-3a7448d87024)
     )
     (pad "B" smd roundrect (at 0 0 180) (size 1.778 0.508) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
-      (net 7 "C") (tstamp f8d22d97-be66-4c47-b884-94dfd0603045))
+      (net 7 "C") (tstamp ad86f24d-daba-45c6-aa86-009c7d50aa0a))
   )
 
   (footprint "Package_SO:TSOP-6_1.65x3.05mm_P0.95mm" (layer "F.Cu")
