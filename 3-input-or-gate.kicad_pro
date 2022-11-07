@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.95,
-          "width": 0.975
+          "height": 0.508,
+          "width": 1.778
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [],
@@ -128,7 +128,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "OR-Gate Breakout Board.kicad_pro",
+    "filename": "3-input-or-gate.kicad_pro",
     "version": 1
   },
   "net_settings": {

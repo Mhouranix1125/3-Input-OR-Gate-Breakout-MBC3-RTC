@@ -1,10 +1,10 @@
 {
   "board": {
-    "active_layer": 37,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
-    "high_contrast_mode": 1,
+    "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
       "pads": 1.0,
@@ -36,6 +36,7 @@
       8,
       9,
       10,
+      11,
       12,
       13,
       14,
@@ -61,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "fc0efff_ffffffff",
+    "visible_layers": "ffdffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "OR-Gate Breakout Board.kicad_prl",
+    "filename": "3-input-or-gate.kicad_prl",
     "version": 3
   },
   "project": {
